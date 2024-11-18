@@ -19,6 +19,7 @@ The project uses Selenium to scrape the game and the NLTK library for word valid
 
 ## Requirements
 - **Python >= 3.9**
+- **requirements.txt file**
 - **Google Chrome**
 - **ChromeDriver** (matching your Chrome version) Use this link for versions above 115: https://googlechromelabs.github.io/chrome-for-testing/
 
@@ -31,3 +32,10 @@ The project uses Selenium to scrape the game and the NLTK library for word valid
 ```bash
 git clone https://github.com/gitedmond/nyt-spelling-bee-solver.git
 cd nyt-spelling-bee-solver
+pip install -r requirements.txt
+
+## Example Output
+
+Play button clicked!
+Letters: ['n', 'b', 'p', 'a', 'e', 'i', 'l']
+Valid words: ['nine', 'bail', 'pain', 'line', 'bane', 'pile', ...]
