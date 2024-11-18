@@ -34,8 +34,9 @@ git clone https://github.com/gitedmond/nyt-spelling-bee-solver.git
 cd nyt-spelling-bee-solver
 pip install -r requirements.txt
 
-## Example Output
+---
 
+## Example Output
 Play button clicked!
 Letters: ['n', 'b', 'p', 'a', 'e', 'i', 'l']
 Valid words: ['nine', 'bail', 'pain', 'line', 'bane', 'pile', ...]
