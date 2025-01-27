@@ -6,7 +6,7 @@ This Python project automates the process of extracting letters from the **NYT S
 2. Words must be at least 4 letters long.
 3. Words can only use the given letters, and letters can repeat.
 
-The project uses Selenium to scrape the game and the NLTK library for word validation.
+The project uses Selenium to scrape the game and the NLTK library for word validation. This game is too hard, so I unapologetically made a cheat.
 
 ---
 
